@@ -55,15 +55,6 @@ function handleClick() {
   
 filterTable(filters,tableData);
 
-// challenge update finishes here
-
-
-
-
- 
-  // Rebuild the table using the filtered data
-  // @NOTE: If no date was entered, then filteredData will
-  // just be the original tableData.
   
 }
 // Attach an event to listen for the form button
